@@ -4,7 +4,6 @@
 #
 %define		pdir	PPIx
 %define		pnam	Utilities
-%include	/usr/lib/rpm/macros.perl
 Summary:	PPIx::Utilities - extensions to PPI
 Summary(pl.UTF-8):	PPIx::Utilities - rozszerzenia do PPI
 Name:		perl-PPIx-Utilities

@@ -8,7 +8,7 @@ Summary:	PPIx::Utilities - extensions to PPI
 Summary(pl.UTF-8):	PPIx::Utilities - rozszerzenia do PPI
 Name:		perl-PPIx-Utilities
 Version:	1.001000
-Release:	1
+Release:	2
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
